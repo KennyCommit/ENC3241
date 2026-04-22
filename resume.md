@@ -8,6 +8,10 @@ title: Resume
 <!-- Fallback download link -->
 <p><a href="Resume.pdf" target="_blank">Download Resume (PDF)</a></p>
 
+<!-- Brief Description -->
+This resume was created as part of my professional writing portfolio for ENC 3241. 
+It highlights my IT experience, education, certifications, and technical skills.
+
 <!-- Embedded PDF viewer -->
 <iframe 
   src="Resume.pdf" 
