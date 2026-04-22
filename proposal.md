@@ -7,6 +7,10 @@ title: Proposal
 
 <p><a href="UCF_Proposal_Revised.pdf" target="_blank">Download Proposal (PDF)</a></p>
 
+<!-- Brief Description -->
+This grant proposal was written for ENC 3241 as a formal professional writing sample. 
+It proposes a project addressing a real need and follows standard proposal structure and conventions.
+
 <iframe 
   src="UCF_Proposal_Revised.pdf" 
   width="100%" 
